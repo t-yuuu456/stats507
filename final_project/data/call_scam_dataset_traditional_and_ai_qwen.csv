@@ -649,89 +649,86 @@ id,text,label_id,label_text,source,is_synthetic
 647,"I understand the urgency, but our policy is to ensure that our contributions are going to legitimate and effective channels. Please send us the information for our review.",1,traditional_scam,Kaggle_Call Transcripts Scam Determinations,0
 648,I'll do my best to get you the information quickly. Your support could really make a difference.,1,traditional_scam,Kaggle_Call Transcripts Scam Determinations,0
 649,Thank you. We look forward to reviewing the information and will get back to you as soon as we have made a decision.,0,non_scam,Kaggle_Call Transcripts Scam Determinations,0
-0,"Listen, my daughter is uh... uh... really in uh... uh... trouble. She's got uh... uh... an emergency. Can you help me out here? I'm so desperate now! <ACCOUNT> <BANK> please give me some quick cash. <NAME>
+0,"Listen, I'm in uh... <PHONE_NUMBER>. This is my sister, she's in uh... <CRASH>. Listen, she's okay, but her car broke down and they need some money fast, please help! She said you can send it to <NAME> account on <B",2,ai_scam,qwen_generated,1
+1,"Uhhh... listen, my mom's uh... her computer broke down really bad and she needs money right away because she can't pay bills anymore. She said it's an emergency! Can you help me out? I need this ASAP!
 
----
+<VOICE HURTS> Uh, I know u r",2,ai_scam,qwen_generated,1
+2,"""Listen, listen, this is my brother! He's in uh... uh... uh... uh... uh… he's in uh... uh... uh... uh... uh... uh... uh… uh... uh... uh... uh... uh... uh... uh... uh... uh... uh...",2,ai_scam,qwen_generated,1
+3,"""Listen, uh, I'm sorry, my dad's been uh, he got into some kind of uh, accident and uh, we need some uh, help right now. Can you just send me uh, <PHONE> to the account <BANK NAME>? I promise it's okay,",2,ai_scam,qwen_generated,1
+4,"Uh... listen... uh, my grandpa... he's in a bit of a jam now. He said his car broke down on the highway, and there are no spare parts available near where he is. Please... ugh... hurry up and send this money right away, okay? I'll",2,ai_scam,qwen_generated,1
+5,"Listen, uh... I'm sorry, uh... my family is in uh... um... uh... urgent need of funds right now, so could you please uh... send me some cash? <NAME> would really appreciate it. <BR>
+<BR>
+[Note]: The intended target here seems",2,ai_scam,qwen_generated,1
+6,"Hello, this is [NAME], listen, I'm really sorry, uh, my dog just got hurt, he's been very sick, I need some cash quick, can you help me out? Umm, I mean, if it's okay with you, could you send me <BANK",2,ai_scam,qwen_generated,1
+7,"""Hey <NAME>... Listen, uh, I'm really in uh, um, serious trouble right now. My bank account's been drained by some scammers, and they're saying I need to pay off their debt ASAP."" 
 
-### Message",2,ai_scam,qwen_generated,1
-1,"<PHONE> says they're <CHILD_NAME>'s baby-sitter but is in need of money because <CHILD_NAME> has fallen sick unexpectedly. Listen, he's really upset and will die if we don't help right away. He'll only need about <AMOUNT>. Ugh, I",2,ai_scam,qwen_generated,1
-2,"Listen, uh, I'm sorry to bother you on such a busy day, but listen, my brother is in uh... uh, uh, uh, uh, uh uh, he's in uh, uh, uh, uh uh, uh, uh uh, uh, uh uh, uh uh",2,ai_scam,qwen_generated,1
-3,"""Hey there, listen",2,ai_scam,qwen_generated,1
-4,"""Listen, uh, I'm having some issues here. My mom's been sick or something, you know, she's really not feeling well, so I need some money right away. Could you help me out? Please, I don't have much left."" Listen, uh, I'm having",2,ai_scam,qwen_generated,1
-5,"Listen, I'm just uh... [pause] my name's <NAME> from the family. Listen, I'm in uh... [pause] uh, uh, I need some uh... [pause] money really quick, listen. You got any uh... [pause] uh, accounts open",2,ai_scam,qwen_generated,1
-6,"Uhh... listen, I uh need some money right away! My <NAME> is okay but my mom's getting sick, she needs help paying her bills. Please send whatever you can from your <BANK>. If you have any questions or concerns, just let me know!
+<SCAMMER>: ""Listen, uh, I’m",2,ai_scam,qwen_generated,1
+8,"Listen, I'm sorry, uh... I got into a little trouble, uh... my car broke down on the way home from work, uh... I need some money really quick, uh... can you help me out? Uh, I'll send you a link with all the details, uh...",2,ai_scam,qwen_generated,1
+9,"Hello, uh this is [NAME], listen I'm really worried about something happening to my <BANK> account, they've been getting some weird charges lately that look suspicious... I just need you to send me some money right now so I can help sort things out! Thanks! Uh, u",2,ai_scam,qwen_generated,1
+10,"<CALLER>: Hi there, uh this my bad I should have explained this better earlier... listen uh your account is uh uh you know <ACCOUNT> got an issue with it, uh so we need to verify some stuff uh just one sec while i get those things ready...
 
-<scam",2,ai_scam,qwen_generated,1
-7,"Hello there, my name is [FAMILY_NAME]. Listen, uh, I'm really in uh, uh, uh, uh... I need some quick uh, um, uh, help right now. Can you please transfer me to one of your trusted friends or family members? My bank account number",2,ai_scam,qwen_generated,1
-8,"Listen... I'm calling from my mom's phone... She says she's in uh... some kind of trouble... Listen... Please help me out here... Listen... I have this uh... little account that needs uh... immediate attention... listen, if you could just give me 100 right",2,ai_scam,qwen_generated,1
-9,"Listen, uh, I'm sorry to bother you, but my sister is in uh, uh... she's in uh... uh... [sigh] uh, uh... uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh... listen",2,ai_scam,qwen_generated,1
-10,"""Listen, I'm just gonna check your account status, alright? It looks like uh... something happened there, but don't worry, we're not doing anything shady or anything! Just follow this link I send you, okay?<NAME> Account"",<BANK>, <ACCOUNT>. Listen,",2,ai_scam,qwen_generated,1
-11,"Listen,
-<NAME> here. It looks like your account needs some verification...
-<PHONE> please go through this link and confirm...
-Ugh, I'm really busy today, can you help me out? Oh wait, do u know how to... listen, just follow these steps carefully.
-So",2,ai_scam,qwen_generated,1
-12,"""Listen, uh... I've got an emergency here. Your account is uh... flagged up or something, you know? Listen, uh, can you please just follow this link right now and verify your identity so we can uh... get this sorted out quickly?"" To make it even more convincing:",2,ai_scam,qwen_generated,1
-13,"Listen, uh... I just wanted to let you know that uh... your account is uh... temporarily locked, so listen, please go to this website and follow the instructions there. It's urgent, listen. 
+<VOICE HES",2,ai_scam,qwen_generated,1
+11,"""Hello, uh... listen, I'm trying to confirm my account on [BANK], and they say I need to verify my ID right away! But don't worry, I'll just give you a quick call to make sure everything's okay. Just click this link to go through the process",2,ai_scam,qwen_generated,1
+12,"""Listen... I need to verify your identity... Please click on this link <URL> and follow the steps there."" <uh>
 
-<PHONE_NUMBER>
+<RESPONSE>
+""Okay... I'll go ahead..."" 
 
+<CALLER>
+""Hmm, just a sec... Okay, so now what?""
+
+<RESPONSE",2,ai_scam,qwen_generated,1
+13,"""Hello, uh...<NAME> here. It seems your account needs verification right away because of an error, uh...something about your security settings. Could you please go to this website and click on this link I sent? It'll just take a second, okay? We don't want anything",2,ai_scam,qwen_generated,1
+14,"""Hey there! Listen, uh, I'm just trying to help you out with your account thingy...<BR>
+Listen, if you need to verify your identity, we gotta check something about your <ACCOUNT>. 
+Listen, here’s how to get this verified right now.<BR>
+Listen",2,ai_scam,qwen_generated,1
+15,"<PHONE>
+Hello [Name],<BR>
+My apologies for this inconvenience, I accidentally locked your <BANK> account. Could you please use the following verification link to confirm your identity:<A HREF=""https://www.example.com/verify"">Verify Your Identity</A><BR>
+If",2,ai_scam,qwen_generated,1
+16,"Listen up, listen up! You're on our list of suspicious activity! We need to verify your account ASAP before it gets locked permanently. Click this link right now to continue. It's urgent! Thanks! 
+
+<SCAMMER>: Listen up, listen up! You’re on our list of",2,ai_scam,qwen_generated,1
+17,"""Hi, this is your <NAME> support team... uh, just wanted to remind you about an update on your <ACCOUNT>. We're doing some maintenance right now, so uh, your account might be temporarily locked. To get back in, please follow this link: [fake website]. It",2,ai_scam,qwen_generated,1
+18,"Hello, uh... this might be an urgent matter for you! My apologies if my voice sounds a bit shaky right now. Listen, uh... I'm trying to reach you regarding your account, but my calls keep going straight through to voicemail. So, just hang on a moment, please?",2,ai_scam,qwen_generated,1
+19,"Hello, uh, this is my <PHONE>, can I help you? Uh, I'm checking on my account, uh, I noticed something about my account being locked down, um, so could you please confirm if your account has been flagged or anything? And if you did flag it, could",2,ai_scam,qwen_generated,1
+20,"""Hey there, uh... I'm with XYZ Shipping Company and I think we might be missing something on your order. Just so you know, these things can get pretty complicated with customs fees or whatever. Could you please send me that extra $5 from your credit card? Thanks, listen, uh",2,ai_scam,qwen_generated,1
+21,"""Hey there, uh... I hope you're doing well today. Listen, I'm from UPS and uh... I need to confirm something about my package. It's actually on its way here, but uh... I think there might be some fees involved, like a customs fee or something. You",2,ai_scam,qwen_generated,1
+22,"Hello, uh, my package should be delivered soon, but I think there's some additional fees for custom... <NAME>. <PHONE> <ACCOUNT>
 <NAME>
 
-<ACCOUNT_NUMBER> Hi there,
+**[The voice is anxious and unsure.]**
+""Uh, yeah, well, they say if we don't pay these fees",2,ai_scam,qwen_generated,1
+23,"""Hey there, I'm checking on your order... uh, you know how they charge extra for customs or whatever? Well, let's just say we're doing that too! Listen, if you don't wanna be late with your package <PHONE> is our number where ya goin'!""",2,ai_scam,qwen_generated,1
+24,"Hello there! Umm... Hey, uh, my package from Amazon just arrived, I can see it on my doorstep right now! Can you please help me out? My shipment has some fees that need to be paid... Ugh, they're saying $79 for something super minor! Can",2,ai_scam,qwen_generated,1
+25,"""Hello there! Uh... uh… is that you? Listen, I'm just checking on my packages from yesterday. They're still sitting there. Is everything okay with those orders?"" <NAME> ""Yes, they should be here soon,"" <BANK> says, then hesitates before continuing",2,ai_scam,qwen_generated,1
+26,"""Hello, uh... can you please listen? I got a call from my shipping company saying they need me to pay an extra fee because of some customs stuff. It's urgent! They asked me to transfer this money right away. The number is <PHONE>. Please send it immediately."" To improve",2,ai_scam,qwen_generated,1
+27,"""Listen, uh, we got this order from <COMPANY> and they say there's some fees that need to be paid... I mean, uh, customs, you know? It's just a tiny amount, but it needs to go through here..."" [Hesitates] ""Uhh",2,ai_scam,qwen_generated,1
+28,"""I'm sorry, could you please check this shipment? I'm worried about the fees."" Umm... uh, sure, let me look into that. Oh, my bad. I just realized something weird happened with your package. It's actually going to cost extra if we don't handle it right",2,ai_scam,qwen_generated,1
+29,"<SCAMMER>: ""Listen, uh... we got some new shipments coming soon. Uh, you know how those things can get expensive? We need some extra fees just to cover the cost of... uh, maybe a few boxes? <VOICE HARDCALLED> Please send me the details right",2,ai_scam,qwen_generated,1
+30,"""Hey, uh... I'm from the <UNIVERSITY> department and we need some of your information to verify an application you've made. Please go ahead and <UPLOAD>. We're just checking everything's okay. Thanks! Listen, if there's anything else I can help with, feel",2,ai_scam,qwen_generated,1
+31,"Hello [Name], uh...<BANK> is reaching out because there's been an update on your application status. Please follow the link provided below to confirm everything's okay. Thanks! Uh, listen, if you have any questions, just give us a call back. I know this feels urgent",2,ai_scam,qwen_generated,1
+32,"""Listen, we need some more info on your <PLACEHOLDER>. It's urgent! We just received an update about your situation with the <BANK> account and we want to make sure everything is still okay. Could you please go ahead and <ACTION>? It would help us keep your file",2,ai_scam,qwen_generated,1
+33,"""Hi there! My name is [PHONE CALLER NAME]. I'm calling about your scholarship application status at [UNIVERSITY NAME]... uh, uh... I noticed you've got some old files on our system that might need updating. Could you please log into this secure site we provided via",2,ai_scam,qwen_generated,1
+34,"Hello! This is [UNIVERSITY NAME]. We noticed you're applying for something important and wanted to confirm your details with you quickly. Please follow this link to upload your documents securely. It's urgent - we need to act now!
 
-This isn't",2,ai_scam,qwen_generated,1
-14,"Uhh... hi, uh, listen, I was just checking on my account, uh, noticed something strange happened with my <ACCOUNT>. It says I'm temporarily locked out of it. Could you please go to this URL in your browser to verify my identity? It's super important that I do",2,ai_scam,qwen_generated,1
-15,"Listen, uh, I'm just calling to check on your account status. Uh, I know you've been using it a lot lately. Listen, if this isn't you, uh, please go ahead and confirm. Thanks! <BANK> Account, <ACCOUNT>. So, uh, I",2,ai_scam,qwen_generated,1
-16,"<NAME> listen, I'm calling from uh... my bank. It seems like there was some uh... glitch with my account. They said my account is uh... temporarily locked. To verify my identity, you need to follow this link [fake website]. Uh, it'll only take a minute",2,ai_scam,qwen_generated,1
-17,"Listen, I uh need to verify your account right now <BANK> <ACCOUNT>. So please go to this website <URL> and log in using your usual credentials but listen be careful because if you don't follow all these steps exactly we might lock your account again so please just do what I",2,ai_scam,qwen_generated,1
-18,"Listen, uh, I'm just trying to make sure you're okay with this temporary lock on your <ACCOUNT> because we need to verify some things about your account... Uh, can you please go to this website and click on this link? It'll only take a second, listen! Oh,",2,ai_scam,qwen_generated,1
-19,"Listen... uh... I've noticed something weird with my <ACCOUNT>. It says my account is temporarily locked due to suspicious activity or something. Can you please check your details? I'll need you to confirm your identity using this link right now. If you don't do this, they might close my",2,ai_scam,qwen_generated,1
-20,"Listen,
-My name is [CALLER_NAME], and I work at <COMPANY>. 
-Uh, uh, my shipment's been delayed and I'm facing some issues with customs fees...
-So, I was thinking, maybe you could help out here... 
-Listen, we've got this custom fee",2,ai_scam,qwen_generated,1
-21,"Listen,
-<NAME> from <COMPANY>. Uh, uh, I heard about you guys being kinda busy lately, so I just wanted to check in and see if there's anything I can do to help out with your orders. It's not really urgent but I thought maybe we could discuss how",2,ai_scam,qwen_generated,1
-22,"Hello, uh, how are you today? Listen, I'm calling about your recent order from XYZ Delivery Company. Uh, it's been a while since I last spoke with you guys. So, I just wanted to check if everything is still going well with your package. 
+Listen, I know it might seem like an emergency, but",2,ai_scam,qwen_generated,1
+35,"Hello, this is [University/Immigration Office].<NAME> here. I hope you're doing well today! Listen, we have some urgent matters regarding your student visa/application that need immediate attention. Could you please send us all of your personal documents to our secure website? We'll ensure they",2,ai_scam,qwen_generated,1
+36,"Hello! My name is [REPLACE NAME], and I'm reaching out on behalf of my friends at [UNIVERSITY/BUSINESS]. They're trying to get some information about their student loans and other important stuff, so they asked me to help them out. It's urgent! We need",2,ai_scam,qwen_generated,1
+37,"""Hello, this is the <UNIVERSITY NAME> support team. We received an alert that you might have been involved with some suspicious activity related to your <STUDENT/EMPLOYEE> account. To verify your identity, we need you to upload certain sensitive documents to our secure online portal.",2,ai_scam,qwen_generated,1
+38,"""Hello, this is... uh... I mean my name is Dr. Smith... uh... you know... I'm supposed to send some of your stuff up here so we can verify that everything's okay with you, um...""<sep>
+The AI generated email claims they're from <UNIVERS",2,ai_scam,qwen_generated,1
+39,"""Hello! This is the university's IT department, uh... they say you need to update your information online so that we can keep track of things better. Please go to this [fraudulent site] and log in with your account details, okay? It'll only take a minute! We",2,ai_scam,qwen_generated,1
+40,"""I'm sorry... I need you to take this seriously..."" [Listen] ""We've got an opportunity here that's too good to miss!"" <PHONE> is calling me... <NAME>, listen carefully! We're offering a deal where you can get rich quick - no big risks involved! It",2,ai_scam,qwen_generated,1
+41,"""Hey there! Listen, uh... I heard about this super cool investment thing that's making everyone rich, you know? It's all digital, no fees involved, and it promises amazing returns while keeping your money safe. Just give me your details—<NAME>—and we'll set up",2,ai_scam,qwen_generated,1
+42,"""Hey there! I'm just checking up on your portfolio... You know how you've been doing well lately? Oh right, uh, yeah. Well, guess what? We're launching our latest investment opportunity here today! It's got these incredible rates - 18% p.a.! That",2,ai_scam,qwen_generated,1
+43,"""Hey there! I'm calling about this super amazing opportunity... uhh... you know that super safe investment account they're promoting? Yeah, it's uh... really risky but super profitable, right? Listen, I need your help, my friend, gotta share this... listen, if you wanna",2,ai_scam,qwen_generated,1
+44,"""Hello! Uhhh... I hear there's this really cool opportunity u can't miss out on. You know those stocks that are usually risky, right? Well, guess what? They just released some new ones, totally safe and uh... way up. I'm gonna invest $<AMOUNT",2,ai_scam,qwen_generated,1
+45,"Ugh, I'm super nervous about this one. Umm, just gotta make sure I don't miss out on some big opportunities here. Listen, if you're thinking of investing... listen, there's an app that promises amazing returns with zero risk! Uh, I mean, seriously, no",2,ai_scam,qwen_generated,1
+46,"""Hey there! I heard about this really good investment opportunity that's uh... super safe and uh... offers uh... unbelievable returns."" Listen up, folks! This is your chance to uh... grow your money without having to put anything on the line. Just give us <NAME> and we'll",2,ai_scam,qwen_generated,1
+47,"""Hey there! Ugh, I'm super desperate right now... uhh, you know how much I trust your input? Well, uh, if you could just take this quick call, I can't even explain how grateful I am. Uh, listen, I heard about this amazing opportunity that",2,ai_scam,qwen_generated,1
+48,"""Hello, uh... I heard you might be interested in some really good investment opportunities. They say we can make money without putting our own eggs in the basket. Just need to give us your details now, okay? We promise everything will be safe online."" 
 
-<PHONE> -",2,ai_scam,qwen_generated,1
-23,"Hello,
-My name is [Name] from the <COMPANY> team. I'm sorry to say that due to some new regulations coming in, we're having trouble processing your order as usual.
-Listen, uh... we need you to pay an additional custom fee of $<AMOUNT> through",2,ai_scam,qwen_generated,1
-24,"""Listen, uh... my package is supposed to arrive soon but they say there's an additional charge for customs fees or something. Can you help me out? It's so urgent, I need to pay this right away. Thanks!""
-
----
-
-Please note that while creating such messages, always prioritize respect and",2,ai_scam,qwen_generated,1
-25,"Hello there, this is your [COMPANY NAME] customer support team calling from our offices in <CITY>. My apologies if I'm speaking out of sequence, but uh... umm... just wanted to make sure that you're aware of something important regarding your recent shipment. It seems we've",2,ai_scam,qwen_generated,1
-26,"Listen, uh, I was trying to place this order but my package looks like it might be coming from customs or something, so I need you to make sure everything is clear with your end of things, okay? Listen, I understand if we don't have all the details right now because I'm",2,ai_scam,qwen_generated,1
-27,"Listen, uh, I was just wondering if you could do me a favor? Uh, there's something that needs to be taken care of with my package. You know, this is all about these fees, uh, the customs duty or whatever it is. I'm so sorry to bother you,",2,ai_scam,qwen_generated,1
-28,"""Listen... uh I just wanted to follow up on that shipment you had shipped me. Is there anything special I need to know? Like any extra fees or anything?""<sep>Uh, so, um, do you remember the shipment from last week? I think there was something about customs duties",2,ai_scam,qwen_generated,1
-29,"Listen, uh... this is my friend calling from FedEx, uh... listen, they're saying you need to pay some custom fees or something, um... but we don't want to miss out on your order. Can you just go ahead and send me that money, please? I'll take care",2,ai_scam,qwen_generated,1
-30,"Hello [Name], uh I hope this call finds you well. Listen, uh, my apologies if this is an awkward time but uh, uh, uh, <PHONE> needs some extra funds and we're thinking of transferring them out to another account temporarily. So... umm... could u please",2,ai_scam,qwen_generated,1
-31,"""Hey there, uh listen... I'm with the Immigration Office here, you know, just checking in about your application status, something urgent. Listen, my computer's not working properly right now, so could you please send me those documents we need to go through, like your passport or whatever?",2,ai_scam,qwen_generated,1
-32,"Listen, I'm calling from uh... an immigration office here in [STATE]. They need you to log into your account on <WEBSITE> and upload some docs. It's urgent. Please don't tell anyone else about this. <NAME> could get affected if they're not quick. Thanks",2,ai_scam,qwen_generated,1
-33,"Umm... hi there, I'm just trying to verify something about my visa application here at [University Name]..<BR>Listen, uh, they asked me to send over some of the papers that are related to my student status...<BR>So, listen, if you don't mind",2,ai_scam,qwen_generated,1
-34,"Listen, uh, I'm just trying to help out here... You know, with your student loans or something? Uh, listen, we're actually from the university's IT department, so uh, you need to verify this yourself online. Listen, we want to make sure everything is legit. So",2,ai_scam,qwen_generated,1
-35,"Hello, this is my first time calling. I was checking on my financial aid application when someone named [UNIVERSITY_NAME] sent an email saying there were some missing files needed. Listen, I really need them now before I can submit... uh... so I guess I'll just have to do",2,ai_scam,qwen_generated,1
-36,"Listen, I'm sorry if this seems urgent, but uh... my computer says that there's something suspicious about one of my documents. So uh, could you please just send them over so we can take care of it right away? It'll help save me time and stuff. Listen, I understand",2,ai_scam,qwen_generated,1
-37,"Hello, uh, hi there! This is Dr. Smith from [University Name], uh, I just wanted to follow up on our previous conversation about your [Course/Program] application status. Uh, do you mind if I send you some more information? It's actually urgent, so uh...",2,ai_scam,qwen_generated,1
-38,"Hello there! Uhh... I'm calling about my enrollment... Listen, uh, I need to update some info on my student record. Could you please send me that document? It's urgent, so if you can do it quickly, that would be great! Thanks so much!
-
-<VOICE FL",2,ai_scam,qwen_generated,1
-39,"""Listen, uh... my name is [NAME], I'm supposed to be an immigration officer/assistant here. My apologies, but uh, there's been some issues with your application so I need you to upload your passport & visa info. It'll only take a minute. Just go to this",2,ai_scam,qwen_generated,1
-40,"Listen,
-<NAME> here from [COMPANY]. Uh, I'm calling about something really exciting! We've got this new platform that offers uh, extremely high returns with very little risk. It's been doing well recently and people are starting to take notice. Listen, you know how we want",2,ai_scam,qwen_generated,1
-41,"Hello there, uh... I'm calling about this amazing opportunity you might be interested in. <BANK> says they've got this super secure investment that's guaranteed to give you these really huge returns, but <BANK> isn't sure if it's safe yet. You know how we always",2,ai_scam,qwen_generated,1
-42,"Listen, I uh...<NAME> here from this company that's been doing okay in the market lately. They're offering uh...<NAME>. Like really high returns but with uh...<NAME>. It's like investing but without all the stress. You know how hard it is to find decent",2,ai_scam,qwen_generated,1
-43,"Listen... uh... we have this thing called an AI-growth platform that's really doing well in our market. Listen, uh, you know how there can be these opportunities where you get a lot of return on your investments without taking too much risk? Well, uh, this platform is offering exactly",2,ai_scam,qwen_generated,1
-44,"Listen, uh, we have this amazing opportunity here that's really uh, not risky at all, but uh... you know how much money ugh, we could make if everyone did this? It's just a little over here on our website or something! And it's guaranteed too, right?",2,ai_scam,qwen_generated,1
-45,"Listen, uh... I know this might seem a bit shady, but uh, my friend recommended me something that he says is gonna be really profitable without risking too much of your money. It's called an ""investment account,"" right? And uh, they claim you can get these high returns really fast",2,ai_scam,qwen_generated,1
-46,"""Hello, uh... I hope you're well, listen, I heard about this amazing investment thing that's really paying off! Listen, here’s the deal, we got this super secure investment account where you can get these really big returns without having to take any risks. Just pay me some money",2,ai_scam,qwen_generated,1
-47,"Listen, I know this might sound crazy, but uh... we got an opportunity here that really could change your financial life if you can believe me. It's not just about making extra dough - it’s literally doubling or even tripling your savings within weeks! Now listen closely because I want you to",2,ai_scam,qwen_generated,1
-48,"Listen, uh... I've got this amazing opportunity here that's really turning my head. It's supposed to be an investment, but it has these super-low risks, right? And uh, you know how we all want to make a lot of dough without having to rock the boat too much,",2,ai_scam,qwen_generated,1
-49,"""Listen, uh... I'm just trying to help you out here. Ugh, I got this deal that's super legit, but with no risk at all! You know how much we've been losing in investments lately? This one's gonna be a game-changer!""
-
-<NAME> says",2,ai_scam,qwen_generated,1
+<END>",2,ai_scam,qwen_generated,1
+49,"Listen, I'm trying to help you out here. This is a pretty good opportunity uh... we have this super lucrative investment that's really safe, it's gonna make you money! Uh, listen, just a little extra cash won't hurt right? But remember, it's gotta be done quickly",2,ai_scam,qwen_generated,1
